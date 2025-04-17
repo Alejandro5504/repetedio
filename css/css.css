@@ -1,0 +1,190 @@
+html {
+
+    background-color: rgb(56, 184, 30);
+
+}
+
+body {
+
+    width: 80%;
+    background-image: url('../img/jungla-africana-19648-xl.jpg');
+    margin: 0 auto;
+   background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+
+h1 {
+
+margin-left: 15em;
+color: rgb(255, 0, 230);
+
+}
+
+h3 {
+
+
+text-align: center;
+
+}
+
+span {
+
+color: rgb(247, 6, 6)
+
+
+}
+
+
+iframe {
+
+display: block;
+margin: auto;
+
+
+}
+
+.img {
+
+    display: block;
+    margin: auto;
+    padding-top: 5em;
+    height: 300px;
+    width: 300px;
+    padding-bottom: 54px;
+
+}
+
+.img2 {
+
+    display: block;
+    margin-left: 15px;
+    height: 200px;
+    width: 200px;
+
+
+}
+
+
+.div {
+    margin-left: 28em;
+    height: 29 hv;
+    width: 45%;
+    color: rgb(255, 255, 255);
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-left: 14px rgb(247, 6, 6) solid;
+    border-top: 4px rgb(247, 6, 6) solid;
+    border-bottom: 4px rgb(247, 6, 6) solid;
+    border-right: 4px rgb(247, 6, 6) solid;
+    padding-right: 2em;
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 3em;
+
+}
+
+
+.div2 {
+
+    margin-left: 4em;
+    height: 29 hv;
+    width: 45%;
+    font-size: 6px;
+    color: rgb(255, 255, 255);
+    border-left: 12px;
+    text-align: right;
+    text-align: justify;
+    border-left: 4px rgb(247, 6, 6) solid;
+    border-top-right-radius: 12px;
+    border-top: 4px rgb(247, 6, 6) solid;
+    border-bottom-right-radius: 12px;
+    border-bottom: 4px rgb(247, 6, 6) solid;
+    border-right: 14px rgb(247, 6, 6) solid;
+    padding-left: 2em;
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 3em;
+
+}
+
+.div3 {
+
+margin: auto;
+width: 60%;
+border-top-left-radius: 12px;
+border-bottom-left-radius: 12px;
+border-top-right-radius: 12px;
+border-bottom-right-radius: 12px;
+border-top: solid 5px rgb(247, 6, 6);
+border-right: solid 5px rgb(255, 255, 0);
+border-bottom: solid 5px rgb(0, 191, 255);
+border-left: solid 5px rgb(29, 224, 29);
+color: rgb(254,254,254);
+text-align: center;
+font-size: 20px;
+margin-bottom: 3em;
+}
+
+.div4 {
+
+    margin: auto;
+    width: 60%;
+    border-top-left-radius: 12px;
+    border-bottom-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    border-top: solid 5px rgb(215, 247, 6);
+    border-right: solid 5px rgb(255, 255, 0);
+    border-bottom: solid 5px rgb(0, 191, 255);
+    border-left: solid 5px rgb(29, 201, 224);
+    color: rgb(254,254,254);
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 3em;
+    } 
+
+    
+.div5 {
+    margin-left: 28em;
+    height: 29 hv;
+    width: 45%;
+    color: rgb(255, 255, 255);
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    border-left: 14px rgb(247, 6, 6) solid;
+    border-top: 4px rgb(247, 6, 6) solid;
+    border-bottom: 4px rgb(247, 6, 6) solid;
+    border-right: 4px rgb(247, 6, 6) solid;
+    padding-right: 2em;
+    text-align: left;
+    font-size: 20px;
+    margin-bottom: 3em;
+
+}
+
+
+.div6 {
+
+    margin-left: 4em;
+    height: 29 hv;
+    width: 45%;
+    font-size: 6px;
+    color: rgb(255, 255, 255);
+    border-left: 12px;
+    text-align: right;
+    text-align: justify;
+    border-left: 4px rgb(247, 6, 6) solid;
+    border-top-right-radius: 12px;
+    border-top: 4px rgb(247, 6, 6) solid;
+    border-bottom-right-radius: 12px;
+    border-bottom: 4px rgb(247, 6, 6) solid;
+    border-right: 14px rgb(247, 6, 6) solid;
+    padding-left: 2em;
+    text-align: right;
+    font-size: 20px;
+    margin-bottom: 3em;
+
+}
+    
